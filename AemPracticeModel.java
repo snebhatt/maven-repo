@@ -25,7 +25,7 @@ public class AemPracticeModel {
 		return imagePath;
 	}
 
-	public boolean isConfigured() {
+	public boolean isBackground() {
 		return Boolean.valueOf(isBackground);
 	}
 
